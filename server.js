@@ -35,4 +35,4 @@ app.post('/imagAIn', async (req, res) => {
     }
 });
 
-app.listen(8080, () => console.log('makeart on http://localhost:8080/imagAIn'));
+app.listen(8080, () => console.log('Generate art on http://localhost:8080/imagAIn'));
